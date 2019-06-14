@@ -1,0 +1,22 @@
++=+=+ Hosting =+=+=+
+https://my.justhost.com/web-hosting/cplogin
+UserName : oceanbluemoon.biz
+Pass : Trojan@ma3s
+
++=+=+ FTP =+=+=+
+FTP username: toy@oceanbluemoon.biz
+FTP server: ftp.oceanbluemoon.biz
+FTP & explicit FTPS port: 21
+
++=+=+ URL =+=+=+
+http://www.oceanbluemoon.biz/APhyo/Index.php
+
+
++=+=+ DB =+=+=+
+$db_username = "oceanblu_admin";
+$db_pass = "Mygenius18";
+$db_name = "oceanblu_toyshop";
+
+
++=+=+ Root Folder =+=+=+
+/public_html/APhyo/_includes
